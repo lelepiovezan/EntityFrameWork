@@ -1,0 +1,15 @@
+C:\testegithub\bin\Debug\net6.0\testegithub.exe
+C:\testegithub\bin\Debug\net6.0\testegithub.deps.json
+C:\testegithub\bin\Debug\net6.0\testegithub.runtimeconfig.json
+C:\testegithub\bin\Debug\net6.0\testegithub.dll
+C:\testegithub\bin\Debug\net6.0\ref\testegithub.dll
+C:\testegithub\bin\Debug\net6.0\testegithub.pdb
+C:\testegithub\obj\Debug\net6.0\testegithub.csproj.AssemblyReference.cache
+C:\testegithub\obj\Debug\net6.0\testegithub.GeneratedMSBuildEditorConfig.editorconfig
+C:\testegithub\obj\Debug\net6.0\testegithub.AssemblyInfoInputs.cache
+C:\testegithub\obj\Debug\net6.0\testegithub.AssemblyInfo.cs
+C:\testegithub\obj\Debug\net6.0\testegithub.csproj.CoreCompileInputs.cache
+C:\testegithub\obj\Debug\net6.0\testegithub.dll
+C:\testegithub\obj\Debug\net6.0\ref\testegithub.dll
+C:\testegithub\obj\Debug\net6.0\testegithub.pdb
+C:\testegithub\obj\Debug\net6.0\testegithub.genruntimeconfig.cache
